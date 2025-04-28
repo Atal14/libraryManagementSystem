@@ -1,2 +1,2 @@
-# libraryManagementSystem
+# Library Management System
 For Learning Django
